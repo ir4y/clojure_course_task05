@@ -1,3 +1,12 @@
+Исходный код https://github.com/ir4y/checklist
+Задеплоенное приложение http://checklist.allsol.ru/index.html
+
+
+
+
+
+
+
 # ClojureScript Example Application
 
 Позволяет создавать, редактировать, просматривать и удалять задания. Реализована аутентификация.
